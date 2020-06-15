@@ -2,7 +2,7 @@
  computer vision : global offensive
 
 ## ???
-[take a quick look here](https://youtu.be/YiGEf9hP55E).  
+[_**take a quick look here**_](https://youtu.be/YiGEf9hP55E).  
 i implemented a way to aim and shoot in the videogame CS:GO by moving your arm in real life.  
 i used my [**_vaaac library_**](https://github.com/soybin/vaaac) in order to get the arm's angle and trigger input from the user. 
 
